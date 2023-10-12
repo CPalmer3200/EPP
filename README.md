@@ -1,3 +1,5 @@
+![banner](https://github.com/CPalmer3200/Epitope-Prediction-Pipeline/assets/145576128/1a6b961f-7759-4b08-b7cc-2ff9c739a4fa)
+
 # Epitope Prediction Pipeline
 
 User manual .txt file for the Epitope Prediction Pipeline (EPP) module
