@@ -1,4 +1,4 @@
-# README.txt (EPP) ###################################################################################################################
+# Epitope Prediction Pipeline
 
 User manual .txt file for the Epitope Prediction Pipeline (EPP) module
 
